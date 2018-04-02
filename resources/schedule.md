@@ -33,11 +33,23 @@
 |    |3.7	|	    |23,24      |Two-Sample CIs 						 | [lec15](https://github.com/dblarremore/csci3022/blob/master/slides/lec15.pdf)      |	|
 |    |03.9  | [nb14](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb14_confidenceintervals.ipynb)	    |           |**CIs in the Wild** 					 | [bonus](https://github.com/dblarremore/csci3022/blob/master/slides/lec15_bonus.pdf)      |	|
 |9   |03.12 |	    |25,26      |Hypothesis Testing Intro 				 |  [lec16](https://github.com/dblarremore/csci3022/blob/master/slides/lec16.pdf)     |	|
+<<<<<<< HEAD
 |    |03.14 | 	    |25,26      |p-Values 								 |  [lec17](https://github.com/dblarremore/csci3022/blob/master/slides/lec17.pdf)     |	|
 |    |03.16 | [nb16](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb16_ht.ipynb) [nb17](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb17_pvals.ipynb)	    |           |**Practical HT & p**					 |       |hw4 due|
 |10  |3.19  |	    |27         |Small-sample HT 						 |       |hw5 posted|
 |    |3.21  |	    |18,23.3    |Bootstrap Theory 						 |       |	|
 |    |3.23  |	    |           |**Bootstrap Practice** 				 |       |	|
+=======
+|    |03.14 | 	    |25,26      |p-Values 								 |  [lec17](https://github.com/dblarremore/csci3022/blob/master/slides/lec17.pdf)  [lec18](https://github.com/dblarremore/csci3022/blob/master/slides/lec18.pdf)   |	|
+|    |03.16 | [nb16](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb16_ht.ipynb) [nb17](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb17_pvals.ipynb)	    |           |**Practical HT & p**					 |       |hw4 due|
+|10  |3.19  |	    |27         |Small-sample HT 						 | [lec19](https://github.com/dblarremore/csci3022/blob/master/slides/lec19.pdf)      |hw5 posted|
+|    |3.21  |	    |18,23.3    | Interstate Wars 						 | [Slides](http://santafe.edu/~aaronc/slides/Clauset_2018_CSCI3022.pdf) [paper](http://advances.sciencemag.org/content/4/2/eaao3580)     |	|
+|    |3.23  |	    |           |**Python Pro Tips** 				 |       |	|
+
+[//]: # |    |3.21  |	    |18,23.3    |Bootstrap Theory 						 |       |	|
+[//]: # |    |3.23  |	    |           |**Bootstrap Practice** 				 |       |	|
+
+>>>>>>> c69e9eac0d981889a4c5826a0d372f5d5575dd7d
 |11  |03.26 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
 |    |03.28 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
 |    |03.30 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
