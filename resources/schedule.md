@@ -29,24 +29,24 @@
 |    |02.28 |	    |14         |The Central Limit Theorems 			 | [lec13](https://github.com/dblarremore/csci3022/blob/master/slides/lec13.pdf)       |	|
 |    |02.28 |	    |           |**MIDTERM EXAM (PM)** 					 |       |	|
 |    |03.2  | [nb12](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb12_normal.ipynb) [nb13](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb13_centrallimitthm.ipynb) |           |**The Central Limit Theorem and You**	 |       |hw3 due|
-|8   |3.5	|	    |23,24      |Inference and CI Intro					 |       |hw4 posted|
-|    |3.7	|	    |23,24      |Two-Sample CIs 						 |       |	|
-|    |03.9  | 	    |           |**CIs in the Wild** 					 |       |	|
-|9   |03.12 |	    |25,26      |Hypothesis Testing Intro 				 |       |	|
-|    |03.14 | 	    |25,26      |p-Values 								 |       |	|
-|    |03.16 |	    |           |**Practical HT & p**					 |       |hw4 due|
-|10  |3.19  |	    |27         |Small-sample HT 						 |       |hw5 posted|
-|    |3.21  |	    |18,23.3    |Bootstrap Theory 						 |       |	|
-|    |3.23  |	    |           |**Bootstrap Practice** 				 |       |	|
+|8   |3.5	|	    |23,24      |Inference and CI Intro					 | [lec14](https://github.com/dblarremore/csci3022/blob/master/slides/lec14.pdf)      |[hw4](https://github.com/dblarremore/csci3022/tree/master/homework/homework4) posted|
+|    |3.7	|	    |23,24      |Two-Sample CIs 						 | [lec15](https://github.com/dblarremore/csci3022/blob/master/slides/lec15.pdf)      |	|
+|    |03.9  | [nb14](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb14_confidenceintervals.ipynb)	    |           |**CIs in the Wild** 					 | [bonus](https://github.com/dblarremore/csci3022/blob/master/slides/lec15_bonus.pdf)      |	|
+|9   |03.12 |	    |25,26      |Hypothesis Testing Intro 				 |  [lec16](https://github.com/dblarremore/csci3022/blob/master/slides/lec16.pdf)     |	|
+|    |03.14 | 	    |25,26      |p-Values 								 |  [lec17](https://github.com/dblarremore/csci3022/blob/master/slides/lec17.pdf)  [lec18](https://github.com/dblarremore/csci3022/blob/master/slides/lec18.pdf)   |	|
+|    |03.16 | [nb16](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb16_ht.ipynb) [nb17](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb17_pvals.ipynb)	    |           |**Practical HT & p**					 |       |hw4 due|
+|10  |3.19  |	    |27         |Small-sample HT 						 | [lec19](https://github.com/dblarremore/csci3022/blob/master/slides/lec19.pdf)      |[hw5](https://github.com/dblarremore/csci3022/tree/master/homework/homework5) posted|
+|    |3.21  |	    |18,23.3    | Interstate Wars 						 | [Slides](http://santafe.edu/~aaronc/slides/Clauset_2018_CSCI3022.pdf) [paper](http://advances.sciencemag.org/content/4/2/eaao3580)     |	|
+|    |3.23  |	    |           |**Python Pro Tips** 				 |       |	|
 |11  |03.26 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
 |    |03.28 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
 |    |03.30 |	    |           |**SPRING BREAK - NO CLASS**			 |       |	|
-|12  |04.2  |	    |22         |OLS/SLR Regression						 |       |	|
-|    |04.4  |	    |           |**OLS/SLR Regression**					 |       |	|
-|    |04.6  |	    |27         |Inference in SLR						 |       |hw5 due|
-|13  |4.9	|	    |ISL Ch3    |MLR 									 |       |hw6 posted|
-|    |04.11 |	    |ISL Ch3    |Inference in MLR						 |       |	|
-|    |04.13 |	    |           |**Practical MLR** 						 |       |	|
+|12  |04.2  |	    |           |Bootstrap Intro						 | [lec20](https://github.com/dblarremore/csci3022/blob/master/slides/lec20.pdf)       |	|
+|    |04.4  | [nb20](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb20_small_n_ht.ipynb) [nb21](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb21_bootstrap.ipynb) 	    |          |**Bootstrap and Small n HT**			     | [lec21](https://github.com/dblarremore/csci3022/blob/master/slides/lec21.pdf)      |	|
+|    |04.6  | [nb22](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb22_regression.ipynb)	    |27         |OLS/SLR Regression 						 |       |hw5 due|
+|13  |4.9	|	    |    		| Inference in SLR									 |       |[hw6](https://github.com/dblarremore/csci3022/tree/master/homework/homework6) posted|
+|    |04.11 |	    |ISL Ch3    |MLR and Inference in MLR						 |       |	|
+|    |04.13 |	    |ISL Ch3           |**Practical MLR** 						 |       |	|
 |14  |04.16 |	    |           |ANOVA								 	 |       |practicum posted|
 |    |04.18 |	    |           |**ANOVA** 								 |       |	|
 |    |04.20 |	    |           |Logistic Regr. & Classification         |       |hw6 due|
